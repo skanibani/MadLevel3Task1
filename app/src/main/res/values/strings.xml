@@ -13,4 +13,8 @@
     <string name="welcome_header">Welcome to the Games Rating app!</string>
     <string name="welcome_explainer">Click START to start rating :)</string>
     <string name="start">Start</string>
+
+    <string name="rating_header">Rate the following game from 1 to 5 stars!</string>
+    <string name="game_title">Empty game title</string>
+    <string name="to_summary">To summary</string>
 </resources>
